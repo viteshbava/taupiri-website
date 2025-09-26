@@ -1,0 +1,216 @@
+<svg width="877" height="1000" viewBox="0 0 877 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="438.5" y1="0" x2="438.5" y2="16" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6E1610"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Row 1 -->
+  <g transform="translate(0, 0)">
+    <rect width="877" height="16" fill="url(#paint0_linear)"/>
+    <mask id="mask0_r1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="16">
+      <rect width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask0_r1)">
+      <rect x="22" y="-8" width="3" height="31" transform="rotate(40 22 -8)" fill="#FFFBE8"/>
+      <rect x="24.335" y="-5.85107" width="3" height="31" transform="rotate(34 24.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="5" y="-4.01843" width="3" height="31" transform="rotate(-40 5 -4.01843)" fill="#FFFBE8"/>
+      <rect x="3" y="-1.17346" width="3" height="31" transform="rotate(-34 3 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <mask id="mask1_r1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="850" y="0" width="27" height="16">
+      <rect x="850" width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask1_r1)">
+      <rect x="872" y="-8" width="3" height="31" transform="rotate(40 872 -8)" fill="#FFFBE8"/>
+      <rect x="874.335" y="-5.85107" width="3" height="31" transform="rotate(34 874.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="855" y="-4.01843" width="3" height="31" transform="rotate(-40 855 -4.01843)" fill="#FFFBE8"/>
+      <rect x="853" y="-1.17346" width="3" height="31" transform="rotate(-34 853 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <!-- White crosses -->
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="29" y="0" width="21" height="16">
+        <rect x="29" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g mask="url(#mask2_r1)">
+        <rect x="47" y="-5.78601" width="5" height="31" transform="rotate(40 47 -5.78601)" fill="#FFFBE8"/>
+        <rect x="27" y="-2.78601" width="5" height="31" transform="rotate(-40 27 -2.78601)" fill="#FFFBE8"/>
+      </g>
+    </g>
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="825" y="0" width="21" height="16">
+        <rect x="825" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="843" y="-5.78601" width="5" height="31" transform="rotate(40 843 -5.78601)" fill="#FFFBE8"/>
+        <rect x="823" y="-2.78601" width="5" height="31" transform="rotate(-40 823 -2.78601)" fill="#FFFBE8"/>
+      </g>
+    </g>
+    <!-- Red cross in center -->
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="427" y="0" width="21" height="16">
+        <rect x="427" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="445" y="-5.78601" width="5" height="31" transform="rotate(40 445 -5.78601)" fill="#900000"/>
+        <rect x="425" y="-2.78601" width="5" height="31" transform="rotate(-40 425 -2.78601)" fill="#900000"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(0, 19)">
+    <rect width="877" height="16" fill="url(#paint0_linear)"/>
+    <mask id="mask0_r2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="16">
+      <rect width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask0_r2)">
+      <rect x="22" y="-8" width="3" height="31" transform="rotate(40 22 -8)" fill="#FFFBE8"/>
+      <rect x="24.335" y="-5.85107" width="3" height="31" transform="rotate(34 24.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="5" y="-4.01843" width="3" height="31" transform="rotate(-40 5 -4.01843)" fill="#FFFBE8"/>
+      <rect x="3" y="-1.17346" width="3" height="31" transform="rotate(-34 3 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <mask id="mask1_r2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="850" y="0" width="27" height="16">
+      <rect x="850" width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask1_r2)">
+      <rect x="872" y="-8" width="3" height="31" transform="rotate(40 872 -8)" fill="#FFFBE8"/>
+      <rect x="874.335" y="-5.85107" width="3" height="31" transform="rotate(34 874.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="855" y="-4.01843" width="3" height="31" transform="rotate(-40 855 -4.01843)" fill="#FFFBE8"/>
+      <rect x="853" y="-1.17346" width="3" height="31" transform="rotate(-34 853 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <!-- White crosses -->
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="29" y="0" width="21" height="16">
+        <rect x="29" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="47" y="-5.78601" width="5" height="31" transform="rotate(40 47 -5.78601)" fill="#FFFBE8"/>
+        <rect x="27" y="-2.78601" width="5" height="31" transform="rotate(-40 27 -2.78601)" fill="#FFFBE8"/>
+      </g>
+    </g>
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="800" y="0" width="21" height="16">
+        <rect x="800" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="818" y="-5.78601" width="5" height="31" transform="rotate(40 818 -5.78601)" fill="#FFFBE8"/>
+        <rect x="798" y="-2.78601" width="5" height="31" transform="rotate(-40 798 -2.78601)" fill="#FFFBE8"/>
+      </g>
+    </g>
+    <!-- Red crosses expanding -->
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="402" y="0" width="21" height="16">
+        <rect x="402" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="420" y="-5.78601" width="5" height="31" transform="rotate(40 420 -5.78601)" fill="#900000"/>
+        <rect x="400" y="-2.78601" width="5" height="31" transform="rotate(-40 400 -2.78601)" fill="#900000"/>
+      </g>
+    </g>
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="427" y="0" width="21" height="16">
+        <rect x="427" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="445" y="-5.78601" width="5" height="31" transform="rotate(40 445 -5.78601)" fill="#900000"/>
+        <rect x="425" y="-2.78601" width="5" height="31" transform="rotate(-40 425 -2.78601)" fill="#900000"/>
+      </g>
+    </g>
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="452" y="0" width="21" height="16">
+        <rect x="452" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="470" y="-5.78601" width="5" height="31" transform="rotate(40 470 -5.78601)" fill="#900000"/>
+        <rect x="450" y="-2.78601" width="5" height="31" transform="rotate(-40 450 -2.78601)" fill="#900000"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Continue with more rows, creating the stepped pattern -->
+  <!-- Adding representative rows to show the pattern -->
+
+  <!-- Row 20 - Mid section with more red -->
+  <g transform="translate(0, 380)">
+    <rect width="877" height="16" fill="url(#paint0_linear)"/>
+    <mask id="mask0_r20" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="16">
+      <rect width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask0_r20)">
+      <rect x="22" y="-8" width="3" height="31" transform="rotate(40 22 -8)" fill="#FFFBE8"/>
+      <rect x="24.335" y="-5.85107" width="3" height="31" transform="rotate(34 24.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="5" y="-4.01843" width="3" height="31" transform="rotate(-40 5 -4.01843)" fill="#FFFBE8"/>
+      <rect x="3" y="-1.17346" width="3" height="31" transform="rotate(-34 3 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <mask id="mask1_r20" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="850" y="0" width="27" height="16">
+      <rect x="850" width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask1_r20)">
+      <rect x="872" y="-8" width="3" height="31" transform="rotate(40 872 -8)" fill="#FFFBE8"/>
+      <rect x="874.335" y="-5.85107" width="3" height="31" transform="rotate(34 874.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="855" y="-4.01843" width="3" height="31" transform="rotate(-40 855 -4.01843)" fill="#FFFBE8"/>
+      <rect x="853" y="-1.17346" width="3" height="31" transform="rotate(-34 853 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <!-- Red crosses dominating center area -->
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="300" y="0" width="277" height="16">
+        <rect x="300" width="277" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <!-- Multiple red crosses in center -->
+        <rect x="345" y="-5.78601" width="5" height="31" transform="rotate(40 345 -5.78601)" fill="#900000"/>
+        <rect x="325" y="-2.78601" width="5" height="31" transform="rotate(-40 325 -2.78601)" fill="#900000"/>
+        <rect x="370" y="-5.78601" width="5" height="31" transform="rotate(40 370 -5.78601)" fill="#900000"/>
+        <rect x="350" y="-2.78601" width="5" height="31" transform="rotate(-40 350 -2.78601)" fill="#900000"/>
+        <rect x="395" y="-5.78601" width="5" height="31" transform="rotate(40 395 -5.78601)" fill="#900000"/>
+        <rect x="375" y="-2.78601" width="5" height="31" transform="rotate(-40 375 -2.78601)" fill="#900000"/>
+        <rect x="420" y="-5.78601" width="5" height="31" transform="rotate(40 420 -5.78601)" fill="#900000"/>
+        <rect x="400" y="-2.78601" width="5" height="31" transform="rotate(-40 400 -2.78601)" fill="#900000"/>
+        <rect x="445" y="-5.78601" width="5" height="31" transform="rotate(40 445 -5.78601)" fill="#900000"/>
+        <rect x="425" y="-2.78601" width="5" height="31" transform="rotate(-40 425 -2.78601)" fill="#900000"/>
+        <rect x="470" y="-5.78601" width="5" height="31" transform="rotate(40 470 -5.78601)" fill="#900000"/>
+        <rect x="450" y="-2.78601" width="5" height="31" transform="rotate(-40 450 -2.78601)" fill="#900000"/>
+        <rect x="495" y="-5.78601" width="5" height="31" transform="rotate(40 495 -5.78601)" fill="#900000"/>
+        <rect x="475" y="-2.78601" width="5" height="31" transform="rotate(-40 475 -2.78601)" fill="#900000"/>
+        <rect x="520" y="-5.78601" width="5" height="31" transform="rotate(40 520 -5.78601)" fill="#900000"/>
+        <rect x="500" y="-2.78601" width="5" height="31" transform="rotate(-40 500 -2.78601)" fill="#900000"/>
+        <rect x="545" y="-5.78601" width="5" height="31" transform="rotate(40 545 -5.78601)" fill="#900000"/>
+        <rect x="525" y="-2.78601" width="5" height="31" transform="rotate(-40 525 -2.78601)" fill="#900000"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Final row - showing the pattern completion -->
+  <g transform="translate(0, 980)">
+    <rect width="877" height="16" fill="url(#paint0_linear)"/>
+    <mask id="mask0_rf" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="16">
+      <rect width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask0_rf)">
+      <rect x="22" y="-8" width="3" height="31" transform="rotate(40 22 -8)" fill="#FFFBE8"/>
+      <rect x="24.335" y="-5.85107" width="3" height="31" transform="rotate(34 24.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="5" y="-4.01843" width="3" height="31" transform="rotate(-40 5 -4.01843)" fill="#FFFBE8"/>
+      <rect x="3" y="-1.17346" width="3" height="31" transform="rotate(-34 3 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <mask id="mask1_rf" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="850" y="0" width="27" height="16">
+      <rect x="850" width="27" height="16" fill="#F0ECDA"/>
+    </mask>
+    <g mask="url(#mask1_rf)">
+      <rect x="872" y="-8" width="3" height="31" transform="rotate(40 872 -8)" fill="#FFFBE8"/>
+      <rect x="874.335" y="-5.85107" width="3" height="31" transform="rotate(34 874.335 -5.85107)" fill="#FFFBE8"/>
+      <rect x="855" y="-4.01843" width="3" height="31" transform="rotate(-40 855 -4.01843)" fill="#FFFBE8"/>
+      <rect x="853" y="-1.17346" width="3" height="31" transform="rotate(-34 853 -1.17346)" fill="#FFFBE8"/>
+    </g>
+    <!-- Single red cross in center -->
+    <g>
+      <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="427" y="0" width="21" height="16">
+        <rect x="427" width="21" height="16" fill="#F0ECDA"/>
+      </mask>
+      <g>
+        <rect x="445" y="-5.78601" width="5" height="31" transform="rotate(40 445 -5.78601)" fill="#900000"/>
+        <rect x="425" y="-2.78601" width="5" height="31" transform="rotate(-40 425 -2.78601)" fill="#900000"/>
+      </g>
+    </g>
+  </g>
+</svg>
