@@ -6,14 +6,7 @@ const page = () => {
       className='min-h-screen w-full'
       style={{
         backgroundColor: '#e2e8f0',
-        backgroundImage: `
-          linear-gradient(45deg, rgba(255,255,255,0.8) 25%, transparent 25%),
-          linear-gradient(-45deg, rgba(255,255,255,0.8) 25%, transparent 25%),
-          linear-gradient(45deg, transparent 75%, rgba(255,255,255,0.5) 75%),
-          linear-gradient(-45deg, transparent 75%, rgba(255,255,255,0.5) 75%)
-        `,
-        backgroundSize: '30px 30px',
-        backgroundPosition: '0 0, 0 15px, 15px -15px, -15px 0px',
+        backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 60 L0 40 L20 40 L20 20 L40 20 L40 0 L60 0 L60 20 L40 20 L40 40 L20 40 L20 60 Z' fill='%23f8fafc' stroke='%23cbd5e1' stroke-width='1'/%3E%3C/svg%3E")`,
       }}>
       <div className='p-8'>
         <h1 className='text-2xl font-bold text-gray-800'>Poutama</h1>
