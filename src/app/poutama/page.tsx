@@ -5,12 +5,12 @@ const page = () => {
     <div
       className='min-h-screen w-full'
       style={{
-        backgroundColor: '#f1f5f9',
+        backgroundColor: '#e2e8f0',
         backgroundImage: `
-          linear-gradient(45deg, rgba(255,255,255,0.6) 25%, transparent 25%),
-          linear-gradient(-45deg, rgba(255,255,255,0.6) 25%, transparent 25%),
-          linear-gradient(45deg, transparent 75%, rgba(255,255,255,0.3) 75%),
-          linear-gradient(-45deg, transparent 75%, rgba(255,255,255,0.3) 75%)
+          linear-gradient(45deg, rgba(255,255,255,0.8) 25%, transparent 25%),
+          linear-gradient(-45deg, rgba(255,255,255,0.8) 25%, transparent 25%),
+          linear-gradient(45deg, transparent 75%, rgba(255,255,255,0.5) 75%),
+          linear-gradient(-45deg, transparent 75%, rgba(255,255,255,0.5) 75%)
         `,
         backgroundSize: '30px 30px',
         backgroundPosition: '0 0, 0 15px, 15px -15px, -15px 0px',
